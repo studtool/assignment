@@ -154,6 +154,8 @@
 
 # Топология системы
 
+![Alt text](https://github.com/studtool/assignment/blob/master/A.png)
+
 ## 1. API Gateway
 Служит единой точкой входа для API системы. Реализует функции:
 - аутентификация запроса;
