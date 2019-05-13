@@ -12,3 +12,7 @@
 ![Alt text](https://github.com/studtool/assignment/blob/master/A1-A3.PNG)
 
 Рис. 2. Детализированная концептуальная модель подсистемы обработки документов
+
+![Alt text](https://github.com/studtool/assignment/blob/master/IDEF3.png)
+
+Рис. 3. Диаграмма изменения документа в нотации IDEF3
