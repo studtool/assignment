@@ -111,3 +111,13 @@
 ![Alt text](https://github.com/studtool/assignment/blob/master/AUTH.png)
 
 Диаграмма деятельности для варианта использования "Авторизация" пользователя
+
+### Диаграммы последовательности действий
+
+![Alt text](https://github.com/studtool/assignment/blob/master/REG-C.png)
+
+Диаграмма последовательности действий при регистрации пользователя (концептуальный уровень)
+
+![Alt text](https://github.com/studtool/assignment/blob/master/REG-D.png)
+
+Диаграмма последовательности действий при регистрации пользователя (детальный уровень)
