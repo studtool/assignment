@@ -121,3 +121,10 @@
 ![Alt text](https://github.com/studtool/assignment/blob/master/REG-D.png)
 
 Диаграмма последовательности действий при регистрации пользователя (детальный уровень)
+
+### Диаграмма потока данных
+
+![Alt text](https://github.com/studtool/assignment/blob/master/DATA.png)
+
+Диаграмма потоков данных подсистемы работы с досками
+
